@@ -32,7 +32,7 @@ An end-to-end Parcel Management System built with Spring Boot, MySQL, and React.
 | **Authentication** | Spring Security & JWT |
 | **Email Service** | JavaMailSender |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 RouteMax/
@@ -136,7 +136,7 @@ cd RouteMax
 
    The frontend will start at `http://localhost:3000`
 
-## 🖥️ Usage
+##  Usage
 
 ### User Flow
 1. **Sign up** or **Login** with your credentials
@@ -150,11 +150,8 @@ cd RouteMax
 3. **Manage users** - Add, update, delete user accounts
 4. **Update delivery status** - Mark parcels as shipped, in-transit, delivered
 
-## 📸 Screenshots
 
-> Add screenshots of your application here
-
-## 🔐 Default Admin Credentials
+##  Default Admin Credentials
 
 ```
 Email: admin@routemax.com
@@ -163,7 +160,7 @@ Password: admin123
 
 >  **Important:** Change default admin credentials after first login
 
-## 🛣️ API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/signup` - Register new user
@@ -201,16 +198,16 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Sahitha Chunduri**
 - GitHub: [jahnavi-MN496](https://github.com/jahnavi-MN496)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Spring Boot Documentation
 - React Documentation
@@ -218,8 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ If you found this project helpful, please give it a star!
+ If you found this project helpful, please give it a star!
 
-## 📧 Support
+##  Support
 
-For support, email sahitha@example.com or open an issue in the repository.
+For support, email jahnavi@example.com or open an issue in the repository.
